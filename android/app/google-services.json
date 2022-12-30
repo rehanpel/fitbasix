@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "198799213199",
+    "project_id": "recipeapp-6355d",
+    "storage_bucket": "recipeapp-6355d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198799213199:android:e2762d09dcd7df9512a6fa",
+        "android_client_info": {
+          "package_name": "com.example.fitbasix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198799213199-10efe519athbmorbakhikbk6k1kjg342.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNafKZfoboTq2L53OCSp9Sk_Yd6cz-rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198799213199-10efe519athbmorbakhikbk6k1kjg342.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198799213199-0v553613ojob9nqe63usacsi7lndf3i5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.recipeapp.mdtech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198799213199:android:b120d89396946f5b12a6fa",
+        "android_client_info": {
+          "package_name": "com.recipeapp.rehan.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198799213199-mhqadieaklm3vnetl1mcqgtikg9rpadh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipeapp.rehan.recipe",
+            "certificate_hash": "a3d2538ca0d1957bea15e5d82c9d9d204d237f02"
+          }
+        },
+        {
+          "client_id": "198799213199-ob6b9fah5hqq127hh6ls2kutesp2dfe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipeapp.rehan.recipe",
+            "certificate_hash": "25f793c82f51d5cdcb36bd0431b8f5dd216a206b"
+          }
+        },
+        {
+          "client_id": "198799213199-10efe519athbmorbakhikbk6k1kjg342.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNafKZfoboTq2L53OCSp9Sk_Yd6cz-rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198799213199-10efe519athbmorbakhikbk6k1kjg342.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198799213199-0v553613ojob9nqe63usacsi7lndf3i5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.recipeapp.mdtech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
